@@ -1,5 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: lightcyan;
+    background-color: burlywood;
     text-align: center;
+}
+h2 {
+    color: darkblue;
+}
+p {
+    color: darkred;
+    font-size: 18px;
 }
