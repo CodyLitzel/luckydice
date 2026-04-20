@@ -1,6 +1,6 @@
 body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: burlywood;
+    background-color: rgb(196, 130, 43);
     text-align: center;
 }
 section {
@@ -9,18 +9,18 @@ section {
     padding: 20px;
 }
 h2 {
-    color: darkolivegreen;
+    color: rgb(51, 70, 18);
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
 }
 p {
-    color: indigo;
+    color: rgb(55, 0, 95);
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
 }
 li {
-    color: midnightblue;
+    color: rgb(11, 11, 71);
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
@@ -32,11 +32,11 @@ a {
     font-family: Arial, Helvetica, sans-serif;  
 }
 a:hover {
-    color: chartreuse;
+    color: rgb(64, 180, 41);
 }
 a:active {
-    color: purple;
+    color: rgb(36, 9, 133);
 }
 a:visited {
-    color: rgb(143, 30, 143);
+    color: rgb(88, 16, 88);
 }
