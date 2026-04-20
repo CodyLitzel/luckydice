@@ -6,9 +6,18 @@ body {
 h2 {
     color: darkolivegreen;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
 }
 p {
     color: indigo;
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+li {
+    color: midnightblue;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+
 }
