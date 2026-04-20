@@ -3,6 +3,11 @@ body {
     background-color: burlywood;
     text-align: center;
 }
+section {
+    margin-left: 20px;
+    margin-top: 50px;
+    padding: 20px;
+}
 h2 {
     color: darkolivegreen;
     font-family: Arial, Helvetica, sans-serif;
