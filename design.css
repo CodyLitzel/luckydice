@@ -32,3 +32,6 @@ a:hover {
 a:active {
     color: purple;
 }
+a:visited {
+    color: violet;
+}
